@@ -1,0 +1,7 @@
+.selected{
+    background-color: blue;
+    padding: 5px;
+}
+.pagination button{
+    margin-right: 15px;
+}
